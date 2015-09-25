@@ -13,6 +13,11 @@ public class GraphicsLab extends Applet {
 	{
 		// DRAW CUBE
 		g.drawRect(100, 100, 300, 300);
+		g.drawRect(200,200,300,300);
+		g.drawLine(100, 100, 200, 200);
+		g.drawLine(400,100,500,200);
+		g.drawLine(100,400,200,500);
+		g.drawLine(400,400,500,500);
 
 
 
